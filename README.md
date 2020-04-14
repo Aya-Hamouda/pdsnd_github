@@ -1,7 +1,7 @@
 
 
 ### Project Title
-Explore US bikeshare data
+Explore US bikeshare data program
 
 ### Description
 This U.S. bikeshare data program provides dataset and data filtering for bikeshare project in Washington. New York city and Chicag.
